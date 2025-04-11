@@ -1,7 +1,6 @@
 # Vue.js CRUD Product App
 
-This project is a Vue.js application to manage products, allowing users to view, add, and delete products. The app communicates with a backend using Vuex for state management and Axios for API requests.
-A Product Management App built with Vue 3 using the **`Composition API syntax`**. It provides essential **CRUD functionality**—`add`, `view`, and `delete` products. The app is styled with `Bootstrap 5` for responsive design and uses `Axios` for making HTTP requests. Product data is managed using `json-server`, providing a mock backend API for development and prototyping. This app is ideal for learning how to use the Composition API in `Vue 3` and building modern web applications with `state management via Vuex`.
+A Product Management App built with Vue 3 using the **`Composition API syntax`**. It provides essential **CRUD functionality** — **`add`**, **`view`**, and **`delete`** products. The app is styled with **`Bootstrap 5`** for responsive design and uses **`Axios`** for making HTTP requests. Product data is managed using **`json-server`**, providing a mock backend API for development and prototyping. This app is ideal for learning how to use the Composition API in **`Vue 3`** and building modern web applications with **`state management via Vuex`**.
 
 ## Technologies Used
 
